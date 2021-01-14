@@ -1,6 +1,8 @@
 # Bank-Customer-Churn-Modeling
 Given a Bank customer, a classifier was built which can determine whether they will leave in the next 6 months or not. 
-Link to the Google Collab run code: https://colab.research.google.com/drive/1zyseJqR02NptgN_pbTqAKRyCLyo7S5Q-?usp=sharing#scrollTo=FgqCkx88IH49
+Link to the Google Collab run code:
+###### https://colab.research.google.com/drive/1zyseJqR02NptgN_pbTqAKRyCLyo7S5Q-?usp=sharing#scrollTo=FgqCkx88IH49 
+
 
 # Loading Dataset
 
