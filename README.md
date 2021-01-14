@@ -38,3 +38,8 @@ Given below are columns information:
 # Program flow
 
 ![alt text](https://github.com/Rabih-Tahouf/Bank-Customer-Churn-Modeling/blob/main/Program%20flow.jpg)
+
+# Framework 
+
+![alt text](https://github.com/Rabih-Tahouf/Bank-Customer-Churn-Modeling/blob/main/Framework.png)
+
