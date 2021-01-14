@@ -30,3 +30,7 @@ matplotlib
 seaborn
 scikit-learn
 imblearn
+
+# Program flow
+
+![alt text](https://github.com/Rabih-Tahouf/Bank-Customer-Churn-Modeling/blob/main/Program%20flow.jpg)
