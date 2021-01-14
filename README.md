@@ -8,28 +8,29 @@ https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
 
 Given below are columns information:
 
-RowNumber
-CustomerId
-Surname
-CreditScore
-Geography
-Gender
-Age
-Tenure
-Balance
-NumOfProductsHow many accounts, bank account affiliated products the person has
-HasCrCard
-IsActiveMemberSubjective, but for the concept
-EstimatedSalary
-Exited Did they leave the bank after all?
+1. RowNumber
+2. CustomerId
+3. Surname
+4. CreditScore
+5. Geography
+6. Gender
+7. Age
+8. Tenure
+9. Balance
+10. NumOfProductsHow many accounts, bank account affiliated products the person has
+11. HasCrCard
+12. IsActiveMemberSubjective, but for the concept
+13. EstimatedSalary
+14. Exited Did they leave the bank after all?
 
 # Importing Libraries
 
-numpy
-matplotlib
-seaborn
-scikit-learn
-imblearn
+1. numpy
+2. matplotlib
+3. seaborn
+4. scikit-learn
+5. imblearn
+6. pandas
 
 # Program flow
 
